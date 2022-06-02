@@ -1,0 +1,23 @@
+export default {
+  grassGreen: 'rgba(67,231,189,1)',
+  // lightScarlettRed: 'rgba(250,87,71,0.8)',
+  lightScarlettRed: 'rgba(250,92,92,0.9)',
+  skyBlue: 'rgba(106,179,246,0.8)',
+  paleYellow: 'rgba(251,211,2,0.8)',
+  psycichColor: 'rgba(88,80,210,1)',
+  purpleColor: 'rgba(196,80,218,1)',
+  groundColor: 'rgba(170,82,37,1)',
+  rockColor: 'rgba(149,97,71,1)',
+  normalColor: 'rgba(163,235,223,1)',
+  fightingColor: 'rgba(246,218,198,1)',
+  bugColor: 'rgba(255,187,187,0.6)',
+  steelColor: 'rgba(162,173,173,1)',
+  violetColor: 'rgba(31,22,82,1)',
+  iceColor: 'rgba(142,212,236,0.6)',
+  fairyColor: 'rgba(216,187,233,1)',
+  darkColor: 'rgba(53,51,55,1)',
+  dragonColor: 'rgba(116,165,243,1)',
+
+  transparentBackground: 'rgba(210,210,210,0.6)',
+  white: '#FFFFFF',
+};
